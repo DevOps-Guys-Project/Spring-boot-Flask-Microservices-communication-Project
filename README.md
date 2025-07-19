@@ -8,7 +8,7 @@ There is no frontend. The focus is on how two backend services in different prog
 &nbsp;
 
 🔧 **What This Project Does**
-
+&nbsp;
 - **Spring Boot service (Built in Java)**:  
   - Exposes REST API endpoints
   - Handles some core logic and returns responses  
@@ -18,6 +18,7 @@ There is no frontend. The focus is on how two backend services in different prog
 - **Flask service (Built in Python)**:  
   - Sends HTTP requests to the Spring Boot service
   - Processes the response and applies its own logic
+
 &nbsp;
 
 **Docker:**
