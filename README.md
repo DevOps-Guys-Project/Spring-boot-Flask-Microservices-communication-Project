@@ -6,7 +6,7 @@ This project demonstrates how two services, one written in Java (Spring Boot) an
 <br>
 It simulates a real-world microservices system where apps written in different tech stacks must work together.
 
-🔧 What This Project Does
+**🔧 What This Project Does**
 - Spring Boot service (Built in Java):
  - Exposes REST APIs (e.g., /api/hello)
  - Handles the core business logic
