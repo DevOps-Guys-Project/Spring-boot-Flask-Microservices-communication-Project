@@ -8,7 +8,7 @@ It simulates a real-world microservices system where apps written in different t
 🔧 What This Project Does
 - Spring Boot service:
 
-Built in Java
+ Built in Java
 
 Exposes REST APIs (e.g., /api/hello)
 
