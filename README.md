@@ -6,17 +6,17 @@ This project demonstrates how two services, one written in Java (Spring Boot) an
 <br>
 It simulates a real-world microservices system where apps written in different tech stacks must work together.
 
-**🔧 What This Project Does**
-- Spring Boot service (Built in Java):
-  - Exposes REST APIs (e.g., /api/hello)
-  - Handles the core business logic
-<br>
-<br>
-- Flask service (Built in Python):
-  - Sends requests to the Spring Boot APIs
+🔧 **What This Project Does**
+
+- **Spring Boot service (Built in Java)**:  
+  - Exposes REST APIs (e.g., `/api/hello`)  
+  - Handles the core business logic  
+
+&nbsp;
+
+- **Flask service (Built in Python)**:  
+  - Sends requests to the Spring Boot APIs  
   - Processes or uses the responses to do its own logic
-<br>
-<br>
 Docker:
 
 Both services run in separate Docker containers
