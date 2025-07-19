@@ -8,13 +8,13 @@ It simulates a real-world microservices system where apps written in different t
 
 🔧 What This Project Does
 - Spring Boot service (Built in Java):
- -- Exposes REST APIs (e.g., /api/hello)
- -- Handles the core business logic
+ - Exposes REST APIs (e.g., /api/hello)
+ - Handles the core business logic
 <br>
 <br>
 - Flask service (Built in Python):
- -- Sends requests to the Spring Boot APIs
- -- Processes or uses the responses to do its own logic
+ - Sends requests to the Spring Boot APIs
+ - Processes or uses the responses to do its own logic
 <br>
 <br>
 Docker:
