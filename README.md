@@ -21,12 +21,12 @@ There is no frontend. The focus is on how two backend services in different prog
 
 &nbsp;
 
-**Docker:**
+- **Docker:**
   - Each service runs in its own container
   - Ensures consistency across development and deployment
 
 &nbsp;
 
-**EC2 + Terraform:**
+- **EC2 + Terraform:**
   - An AWS EC2 instance is created using Terraform
   - Both Docker containers are deployed and run on that EC2 instance
