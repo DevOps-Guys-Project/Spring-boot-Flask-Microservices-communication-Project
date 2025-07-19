@@ -1,6 +1,6 @@
-# Spring Boot + Flask Microservices Communication Project (EC2 + Docker + Terraform)
+## Spring Boot + Flask Microservices Communication Project (EC2 + Docker + Terraform)
 
-🚀 Overview
+# 🚀 Overview
 This project demonstrates how two services, one written in Java (Spring Boot) and the other in Python (Flask), can communicate with each other over HTTP REST APIs, even though they're built in different languages.
 <br>
 <br>
